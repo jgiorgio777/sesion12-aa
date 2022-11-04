@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+
+}
+
+header {
+    width: auto;
+    height: auto;
+    background-color: gray;
+    /* Margen en blanco externo*/
+    margin: auto;
+    border-radius: 2%;
+
+
+}
+
+section {
+    width: auto;
+    height: auto;
+    background-color: rgb(102, 153, 52);
+    /* Color de letra */
+    color: white;
+    margin: auto;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial;
+    border-style: solid;
+    border-color: gray;
+    border-width: 30px;
+}
